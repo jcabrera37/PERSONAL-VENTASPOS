@@ -1,0 +1,103 @@
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe.config
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.pdb
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.exe
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.pdb
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCliente.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmGestion.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCompra.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmVenta.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmReporte.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProducto.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalPersona.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ImprimirVenta.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Login.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\030_FUNCIONALIDAD PUNTO VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CopyComplete
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csprojAssemblyReference.cache
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.exe
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.pdb
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe.config
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.pdb
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.dll
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.dll
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.Packaging.dll
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.pdb
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.xml
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.xml
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Form1.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCliente.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCompra.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmGestion.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmProveedor.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmReporte.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmUsuario.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmVenta.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ImprimirVenta.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Login.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalAcercade.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalPersona.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProducto.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProveedor.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Properties.Resources.resources
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.GenerateResource.cache
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\CompuBinario\Downloads\030_PROYECTO_PUNTO_VENTA\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CopyComplete
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe.config
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.exe
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.pdb
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.pdb
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\mscorlib.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.Packaging.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.pdb
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.xml
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\normidna.nlp
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\normnfc.nlp
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\normnfd.nlp
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\normnfkc.nlp
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\bin\Debug\normnfkd.nlp
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csprojResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Form1.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCliente.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCompra.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmGestion.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmProveedor.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmReporte.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmUsuario.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmVenta.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ImprimirVenta.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Login.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalAcercade.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalPersona.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProducto.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProveedor.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Properties.Resources.resources
+C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.GenerateResource.Cache
