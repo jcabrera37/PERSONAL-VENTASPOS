@@ -337,6 +337,8 @@
     <None Include="Resources\exit.png" />
     <None Include="Resources\info64.png" />
     <None Include="Resources\question64.png" />
+    <None Include="Resources\logo_aceitera.jpeg" />
+    <None Include="Resources\reportes.png" />
     <Content Include="shop.ico" />
   </ItemGroup>
   <ItemGroup>

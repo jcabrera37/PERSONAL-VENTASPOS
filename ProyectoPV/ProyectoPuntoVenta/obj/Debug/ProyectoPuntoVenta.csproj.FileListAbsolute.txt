@@ -101,3 +101,36 @@ C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\Pro
 C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProveedor.resources
 C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Properties.Resources.resources
 C:\Users\Lab2\Documents\Programas-exe\Sistema de Ventas y Compras\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.GenerateResource.Cache
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe.config
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.exe
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ProyectoPuntoVenta.pdb
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.dll
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\System.IO.Packaging.dll
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.pdb
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ClosedXML.xml
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csprojAssemblyReference.cache
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Form1.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCliente.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmCompra.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmGestion.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmProveedor.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmReporte.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmUsuario.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.frmVenta.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ImprimirVenta.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Login.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalAcercade.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalPersona.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProducto.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.ModalProveedor.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.Properties.Resources.resources
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.GenerateResource.cache
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CopyComplete
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.exe
+C:\Users\Julio Cabrera\Desktop\PERSONAL-VENTASPOS-main\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.pdb

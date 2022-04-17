@@ -42,11 +42,12 @@ namespace ProyectoPuntoVenta
 
         private void btningresar_Click(object sender, EventArgs e)
         {
-            Persona oPersona = PersonaLogica.Instancia.Listar().Where(p => p.Documento == txtdocumento.Text && p.Clave == txtclave.Text && p.oTipoPersona.IdTipoPersona != 2).FirstOrDefault();
+            Persona oPersona = PersonaLogica.Instancia.Listar().Where(p => p.Documento == txtdocumento.Text && p.Clave == txtclave.Text && p.oTipoPersona.IdTipoPersona != 3).FirstOrDefault();
             if (oPersona != null)
             {
                 Form1 frm = new Form1(oPersona);
                 frm.Show();
+                
                 this.Hide();
                 frm.FormClosing += Frm_Closing;
         }

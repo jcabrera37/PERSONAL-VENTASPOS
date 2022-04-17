@@ -233,6 +233,16 @@ namespace ProyectoPuntoVenta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap logo_aceitera {
+            get {
+                object obj = ResourceManager.GetObject("logo_aceitera", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap print24 {
             get {
                 object obj = ResourceManager.GetObject("print24", resourceCulture);
@@ -266,6 +276,16 @@ namespace ProyectoPuntoVenta.Properties {
         internal static System.Drawing.Bitmap reporteria {
             get {
                 object obj = ResourceManager.GetObject("reporteria", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap reportes {
+            get {
+                object obj = ResourceManager.GetObject("reportes", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -335,7 +355,7 @@ namespace ProyectoPuntoVenta.Properties {
         ///            &lt;tr&gt; &lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
         ///            &lt;tr&gt; &lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
         ///            &lt;tr style=&quot;font-size:13px&quot;&gt;
-        ///                &lt;td align=&quot;center&quot; co [resto de la cadena truncado]&quot;;.
+        ///                &lt;td align=&quot;center&quot; colspan=&quot;2&quot;&gt;RUC: [resto de la cadena truncado]&quot;;.
         /// </summary>
         internal static string Ticket {
             get {

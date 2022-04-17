@@ -78,6 +78,7 @@ namespace ProyectoPuntoVenta
 
         private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            
             frmUsuario frmhijo = new frmUsuario();
 
             mostrarformulario(frmhijo,sender);
